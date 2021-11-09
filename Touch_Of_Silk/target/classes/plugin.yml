@@ -1,0 +1,11 @@
+name: Touch_Of_Silk
+version: '1.0-SNAPSHOT'
+main: me.bigtallahasee.com.touch_of_silk.Touch_Of_Silk
+api-version: 1.17
+authors: [ BigTallahasee ]
+description: Anything is possible with the Touch of Silk!
+commands:
+  tosa:
+    description: admin commands
+  tos:
+    description: regular player commands
